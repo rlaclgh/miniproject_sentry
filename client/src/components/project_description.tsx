@@ -12,7 +12,7 @@ const ProjectDescription = () => {
             {" "}
             sentry
           </a>
-          를 이용해 error를 tracking 하는 프로젝트입니다.
+          를 이용해 client/server error를 tracking 하는 프로젝트입니다.
         </div>
         <div className="text-xl my-2">1.2. client 에러</div>
 
