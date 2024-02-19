@@ -8,7 +8,6 @@
 
 <br />
 <img width="600" alt="client error" src="https://github.com/rlaclgh/miniproject_sentry/assets/46914232/8bb7545c-1361-4c79-ad87-bacb7630d4ed">
-
 <br />
 
 
